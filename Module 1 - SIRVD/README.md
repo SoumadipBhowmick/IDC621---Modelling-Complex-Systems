@@ -8,6 +8,7 @@ This repository contains Python code for a probabilistic cellular automata of SI
 
 - `sirvd.py` - Spatiotemporal CA simulation with visualization.
 - `sirvd_vacc-dead.py` - Parameter sweep: vaccination vs total infected & deaths.
+- `sirvd-gif.py` - Used to create gifs of the simulations
 - `simulations/` - Contains the simulation gifs and population fraction plots
 
 Language: Python (NumPy, Matplotlib)

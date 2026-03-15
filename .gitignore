@@ -12,3 +12,15 @@ Module 1 - SIRVD/*
 !Module 1 - SIRVD/README.md
 
 !Module 1 - SIRVD/sirvd-gif.py
+
+Module 3 - Coupled Map Lattices/*
+
+!Module 3 - Coupled Map Lattices/simulations/
+
+!Module 3 - Coupled Map Lattices/cml_1d_phase_diagram.py
+
+!Module 3 - Coupled Map Lattices/cml_2d_turing_patterns.py
+
+!Module 3 - Coupled Map Lattices/cml_synchronization.py
+
+!Module 3 - Coupled Map Lattices/README.md
